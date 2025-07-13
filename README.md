@@ -1,4 +1,4 @@
- ## Hi there! I'm Afshin Zarei 👋
+ ## Hi there! I'm Afshin Zarai 👋
 
  ## 👨🏻‍💻 About me
 
@@ -27,19 +27,19 @@
 
 <h2>⚡️ Github Stats</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=efshinzarei&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afshinzarai&size_weight=0.5&count_weight=0.5)
 
 <h2>📞 Connect Me </h2>
 
 <p>
- <a href="https://t.me/afshinzareinet/">
-    <img src="https://img.shields.io/badge/Telegram-@AfshinZareiNET-blue?style=flat&logo=telegram" />
+ <a href="https://t.me/afshinzarai/">
+    <img src="https://img.shields.io/badge/Telegram-@AfshinZarai-blue?style=flat&logo=telegram" />
   </a>
-  <a href="https://teitter.com/afshinzareinet/">
-    <img src="https://img.shields.io/badge/X-@AfshinZareiNET-black?style=flat&logo=X" />
+  <a href="https://teitter.com/afshinzarai/">
+    <img src="https://img.shields.io/badge/X-@AfshinZarai-black?style=flat&logo=X" />
   </a>
-  <a href="https://instagram.com/afshinzareinet/">
-    <img src="https://img.shields.io/badge/Instagram-@AfshinZareiNET-deeppink?style=flat&logo=instagram" />
+  <a href="https://instagram.com/afshinzarai01/">
+    <img src="https://img.shields.io/badge/Instagram-@AfshinZarai01-deeppink?style=flat&logo=instagram" />
   </a>
   
 </p>
